@@ -884,6 +884,9 @@ img {
   opacity: 1;
   fill: #ffffff;
 }
+.footer-description{
+  margin-right: 120px;
+}
 
 .backdrop {
   position: fixed;
